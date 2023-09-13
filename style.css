@@ -4,14 +4,43 @@
 }
 body {
   background-color: rgb(0, 183, 255);
+  padding: 20px;
+  margin: 20px;
 }
 
 header {
-    margin: 10px;
     padding: 10px;
 }
 nav{
     color: blueviolet;
-    size: 10px;
     padding: 10px;
+}
+header{
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+a {
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 20px;
+}
+
+.banner{
+    margin-top: 50px;
+}
+
+.about{
+    margin-top: 50px;
+}
+
+.contact{
+    margin-top: 50px;
+}
+
+footer{ 
+    margin-top: 50px;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 50px;
 }
